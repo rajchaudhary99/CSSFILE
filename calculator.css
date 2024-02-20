@@ -1,0 +1,27 @@
+.calcultor{
+          width: 500px;
+          height: 416px;
+          margin: 2px;
+          border: 3px solid black;
+}
+#input-field{
+          margin: 16px;
+          width: 91%;
+          height: 40px;
+          font-size: large;
+          font-weight: 500;
+}
+.bot{
+  display: flex;
+  justify-content: row;
+  margin: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.button{
+         height: 40px;
+         width: 140px;
+         margin: 7px;
+         
+        
+}
